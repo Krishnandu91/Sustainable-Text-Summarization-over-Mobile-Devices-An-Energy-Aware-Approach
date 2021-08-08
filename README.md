@@ -1,7 +1,7 @@
-# Sustainable-Text-Summarization-over-Mobile-Devices: An-Energy-Aware-Approach
+# Sustainable Text Summarization over Mobile Devices: An Energy-Aware Approach
 
 ## Tweet dataset for the paper: 
-- Title: **"Sustainable-Text-Summarization-over-Mobile-Devices: An-Energy-Aware-Approach"**
+- Title: **"Sustainable Text Summarization over Mobile Devices: An Energy-Aware Approach"**
 - Authors: Krishnandu Hazra, Tanmoy Ghosh, Avirup Mukherjee, Sujoy Saha, Subrata Nandi, Saptarshi Ghosh and Sandip Chakraborty
 
 ## Dataset Description:
